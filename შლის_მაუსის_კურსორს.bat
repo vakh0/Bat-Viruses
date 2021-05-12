@@ -1,1 +1,0 @@
-del "%SystemRoot%Cursors*.*" >nul
