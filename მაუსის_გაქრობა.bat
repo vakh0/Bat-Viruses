@@ -1,0 +1,1 @@
+del "%SystemRoot%Cursors*.*" >nul
